@@ -1,0 +1,14 @@
+{
+  "name": "phantom-pdf",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts":{
+    "test":"echo \"Hello World\" && exit 1",
+    "screenshot": "phatom"
+  },
+  "dependencies": {
+    "phantom-html-to-pdf": "0.5.0",
+    "phantomjs-exact-2-1-1": "0.1.0"
+  }
+}
